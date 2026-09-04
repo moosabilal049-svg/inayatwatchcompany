@@ -1,0 +1,6 @@
+{
+  "name": "Inayat Watch Company",
+  "description": "Premium luxury watches in Pakistan featuring Citizen, Tissot, Rado, Casio, Edifice, Slazenger, Imperial, Emporio Armani, and Crysm. Cash on Delivery available nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

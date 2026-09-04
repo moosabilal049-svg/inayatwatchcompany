@@ -1,0 +1,499 @@
+{
+  "brands": [
+    {
+      "id": "brand-citizen",
+      "name": "Citizen",
+      "slug": "citizen",
+      "tagline": "Eco-Drive & Precision Horology",
+      "description": "Pioneering Japanese engineering, Eco-Drive light-powered movements, and unrivaled durability crafted for discerning collectors.",
+      "banner_image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 1,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    },
+    {
+      "id": "brand-tissot",
+      "name": "Tissot",
+      "slug": "tissot",
+      "tagline": "Swiss Tradition Since 1853",
+      "description": "Swiss horological mastery featuring iconic automatic movements, sapphire crystal dials, and classical aesthetic balance.",
+      "banner_image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 2,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    },
+    {
+      "id": "brand-rado",
+      "name": "Rado",
+      "slug": "rado",
+      "tagline": "Master of High-Tech Materials",
+      "description": "World-renowned for revolutionary scratch-resistant high-tech ceramic, minimalist contours, and avant-garde luxury.",
+      "banner_image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1622434641406-a158123450f9?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 3,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    },
+    {
+      "id": "brand-casio",
+      "name": "Casio",
+      "slug": "casio",
+      "tagline": "Legendary Reliability & Timeless Design",
+      "description": "Iconic digital and analog designs built for endurance, absolute precision, and unmistakable retro-modern appeal.",
+      "banner_image": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 4,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    },
+    {
+      "id": "brand-edifice",
+      "name": "Edifice",
+      "slug": "edifice",
+      "tagline": "Speed, Intelligence & Motorsport Precision",
+      "description": "Engineered for motorsport passion with complex multi-layered dials, chronograph accuracy, and dynamic stainless steel cases.",
+      "banner_image": "https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 5,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    },
+    {
+      "id": "brand-slazenger",
+      "name": "Slazenger",
+      "slug": "slazenger",
+      "tagline": "Distinguished British Heritage",
+      "description": "Classic British sporting prestige and timeless fashion chronographs designed for everyday luxury and active distinction.",
+      "banner_image": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 6,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    },
+    {
+      "id": "brand-imperial",
+      "name": "Imperial",
+      "slug": "imperial",
+      "tagline": "Regal Distinction & Prestige",
+      "description": "Opulent executive wristwatches with exquisite champagne gold accents, rich leather straps, and aristocratic charm.",
+      "banner_image": "https://images.unsplash.com/photo-1518131672697-613becd4fab5?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1518131672697-613becd4fab5?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 7,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    },
+    {
+      "id": "brand-emporio-armani",
+      "name": "Emporio Armani",
+      "slug": "emporio-armani",
+      "tagline": "Contemporary Italian Luxury",
+      "description": "Milanese high fashion elegance with sleek architectural silhouettes, refined sunray dials, and iconic Eagle insignia.",
+      "banner_image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 8,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    },
+    {
+      "id": "brand-crysm",
+      "name": "Crysm",
+      "slug": "crysm",
+      "tagline": "Modern Crystalline Architecture",
+      "description": "Bold geometric angles, precision cut crystals, and contemporary minimalist dials for the modern trendsetter.",
+      "banner_image": "https://images.unsplash.com/photo-1619134778706-7015533a6150?auto=format&fit=crop&w=1600&q=85",
+      "logo_image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+      "active": true,
+      "display_order": 9,
+      "created_at": "2026-09-04T15:23:59.775Z",
+      "updated_at": "2026-09-04T15:23:59.775Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-casio-mtp-vd03d",
+      "name": "CASIO MTP-VD03D-3A2UDF MEN WATCH – PAKISTAN",
+      "slug": "casio-mtp-vd03d-3a2udf-men-watch-pakistan",
+      "brand_id": "casio",
+      "category": "Men's Watch",
+      "description": "Classic Casio analog wristwatch featuring stunning turquoise Tiffany sunray dial, stainless steel jubilee bracelet, date aperture, and 50m water resistance.",
+      "price": 16600,
+      "sale_price": 14940,
+      "sku": "CAS-MTP-VD03D",
+      "stock": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=85",
+        "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Quartz Analog",
+        "case_material": "Stainless Steel",
+        "strap_material": "Stainless Steel Link",
+        "dial_color": "Turquoise Tiffany",
+        "case_color": "Silver",
+        "water_resistance": "50M / 5 Bar",
+        "gender": "Men",
+        "watch_type": "Analog"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-casio-ws-b1000",
+      "name": "Casio Men's Standard Watch WS-B1000-8BV – PAKISTAN",
+      "slug": "casio-mens-standard-watch-ws-b1000-8bv-pakistan",
+      "brand_id": "casio",
+      "category": "Men's Watch",
+      "description": "Casio modern digital step tracker with Bluetooth smartphone link, 200 lap memory, dual LED illuminator backlight, and ultra-durable resin construction.",
+      "price": 25000,
+      "sale_price": 22500,
+      "sku": "CAS-WS-B1000",
+      "stock": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&w=800&q=85",
+        "https://images.unsplash.com/photo-1547996160-71dfa6358264?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Digital Quartz with Bluetooth",
+        "case_material": "Resin",
+        "strap_material": "Resin Band",
+        "dial_color": "Digital LCD",
+        "case_color": "Arctic White",
+        "water_resistance": "100M / 10 Bar",
+        "gender": "Men",
+        "watch_type": "Digital"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-casio-mtp-v004l",
+      "name": "CASIO MTP-V004L-1CUDF MEN WATCH – PAKISTAN",
+      "slug": "casio-mtp-v004l-1cudf-men-watch-pakistan",
+      "brand_id": "casio",
+      "category": "Men's Watch",
+      "description": "Sleek Casio dress timepiece with jet black dial, bold silver indices, polished stainless steel case, and stitched black genuine leather strap.",
+      "price": 12000,
+      "sale_price": 10800,
+      "sku": "CAS-MTP-V004L",
+      "stock": 20,
+      "images": [
+        "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": false,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Japanese Quartz",
+        "case_material": "Ion-Plated Steel",
+        "strap_material": "Genuine Leather",
+        "dial_color": "Jet Black",
+        "case_color": "Polished Silver",
+        "water_resistance": "Water Resistant (30M)",
+        "gender": "Men",
+        "watch_type": "Analog"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-casio-g-shock-2100ske",
+      "name": "Casio G-Shock Watch – 2100SKE-7A – PAKISTAN",
+      "slug": "casio-g-shock-watch-2100ske-7a-pakistan",
+      "brand_id": "casio",
+      "category": "Men's Watch",
+      "description": "Legendary octagonal CasiOak design with semi-transparent skeleton resin case, Carbon Core Guard structure, analog-digital display, and 200-meter shock resistance.",
+      "price": 40000,
+      "sale_price": 36000,
+      "sku": "CAS-GA-2100SKE",
+      "stock": 8,
+      "images": [
+        "https://images.unsplash.com/photo-1547996160-71dfa6358264?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Ana-Digi Quartz",
+        "case_material": "Carbon / Resin Skeleton",
+        "strap_material": "Resin Band",
+        "dial_color": "Dark Grey Carbon",
+        "case_color": "Transparent Skeleton",
+        "water_resistance": "200M / 20 Bar",
+        "gender": "Men / Unisex",
+        "watch_type": "Ana-Digi"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-citizen-tsuyosa",
+      "name": "Citizen Tsuyosa Automatic Green Dial NJ0150-81X – PAKISTAN",
+      "slug": "citizen-tsuyosa-automatic-green-dial-nj0150-81x-pakistan",
+      "brand_id": "citizen",
+      "category": "Men's Watch",
+      "description": "The iconic Citizen Tsuyosa automatic featuring sunray emerald green dial, cyclops date magnifier, integrated stainless steel presidential bracelet, and Calibre 8210 movement.",
+      "price": 115000,
+      "sale_price": 98000,
+      "sku": "CTZ-NJ0150-81X",
+      "stock": 5,
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Citizen 8210 Automatic",
+        "case_material": "316L Stainless Steel",
+        "strap_material": "Integrated Steel Bracelet",
+        "dial_color": "Sunray Emerald Green",
+        "case_color": "Silver",
+        "water_resistance": "50M / 5 Bar",
+        "gender": "Men",
+        "watch_type": "Automatic"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-tissot-prx",
+      "name": "Tissot PRX Powermatic 80 Blue Dial – PAKISTAN",
+      "slug": "tissot-prx-powermatic-80-blue-dial-pakistan",
+      "brand_id": "tissot",
+      "category": "Men's Watch",
+      "description": "Swiss horological masterpiece with 80-hour power reserve, Nivachron anti-magnetic balance spring, waffle blue tapisserie dial, and scratch-resistant sapphire crystal.",
+      "price": 245000,
+      "sale_price": 215000,
+      "sku": "TIS-PRX-P80-BL",
+      "stock": 4,
+      "images": [
+        "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Swiss Powermatic 80 Automatic",
+        "case_material": "316L Satin Steel",
+        "strap_material": "Integrated Steel Bracelet",
+        "dial_color": "Tapisserie Blue",
+        "case_color": "Satin Steel",
+        "water_resistance": "100M / 10 Bar",
+        "gender": "Men",
+        "watch_type": "Automatic"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-rado-centrix",
+      "name": "Rado Centrix High-Tech Ceramic Black & Gold – PAKISTAN",
+      "slug": "rado-centrix-high-tech-ceramic-black-gold-pakistan",
+      "brand_id": "rado",
+      "category": "Luxury Watch",
+      "description": "The quintessential expression of Rado high-tech ceramic. Scratch-resistant black ceramic links paired with yellow-gold PVD steel and radiant sapphire crystal.",
+      "price": 520000,
+      "sale_price": 468000,
+      "sku": "RDO-CENTRIX-BG",
+      "stock": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1622434641406-a158123450f9?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": false,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Swiss Automatic",
+        "case_material": "High-Tech Ceramic & Gold PVD",
+        "strap_material": "Ceramic & Steel",
+        "dial_color": "Onyx Black Diamond Markers",
+        "case_color": "Gold / Black",
+        "water_resistance": "50M / 5 Bar",
+        "gender": "Unisex",
+        "watch_type": "Automatic"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-edifice-efr-s108d",
+      "name": "Casio Edifice Motorsport Chronograph EFR-S108D – PAKISTAN",
+      "slug": "casio-edifice-motorsport-chronograph-efr-s108d-pakistan",
+      "brand_id": "edifice",
+      "category": "Chronograph Watch",
+      "description": "Slim profile motorsport watch with octagon bezel, sapphire crystal, brushed stainless steel finish, and high-precision stopwatch chronograph.",
+      "price": 42000,
+      "sale_price": 37800,
+      "sku": "EDF-EFR-S108D",
+      "stock": 9,
+      "images": [
+        "https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Edifice High Precision Quartz",
+        "case_material": "Stainless Steel Octagon",
+        "strap_material": "Solid Steel Bracelet",
+        "dial_color": "Brushed Slate Grey",
+        "case_color": "Silver",
+        "water_resistance": "100M / 10 Bar",
+        "gender": "Men",
+        "watch_type": "Chronograph"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-slazenger-heritage",
+      "name": "Slazenger Dual-Time Heritage Sport Chronograph – PAKISTAN",
+      "slug": "slazenger-dual-time-heritage-sport-chronograph-pakistan",
+      "brand_id": "slazenger",
+      "category": "Sports Chronograph",
+      "description": "British athletic elegance featuring dual-time movement, tachymeter bezel, rose-gold accents, and textured silicone sports band.",
+      "price": 28000,
+      "sale_price": 24500,
+      "sku": "SLZ-HERITAGE-DT",
+      "stock": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": false,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Dual-Time Quartz Chrono",
+        "case_material": "Stainless Steel",
+        "strap_material": "Textured Silicone / Leather",
+        "dial_color": "Midnight Navy",
+        "case_color": "Rose Gold / Black",
+        "water_resistance": "50M / 5 Bar",
+        "gender": "Men",
+        "watch_type": "Chronograph"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-imperial-sovereign",
+      "name": "Imperial Royal Executive Gold Sovereign – PAKISTAN",
+      "slug": "imperial-royal-executive-gold-sovereign-pakistan",
+      "brand_id": "imperial",
+      "category": "Executive Watch",
+      "description": "Prestige executive timepiece with champagne gold fluted bezel, Roman numeral gold indices, embossed crocodile-grain genuine leather, and sapphire coat.",
+      "price": 35000,
+      "sale_price": 29900,
+      "sku": "IMP-SOVEREIGN-GLD",
+      "stock": 7,
+      "images": [
+        "https://images.unsplash.com/photo-1518131672697-613becd4fab5?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Japanese Quartz Date",
+        "case_material": "Champagne Gold Plated Alloy",
+        "strap_material": "Genuine Leather Brown",
+        "dial_color": "Sunburst Champagne Gold",
+        "case_color": "Champagne Gold",
+        "water_resistance": "30M Water Resistant",
+        "gender": "Men",
+        "watch_type": "Analog"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-armani-renato",
+      "name": "Emporio Armani Renato Chronograph Black AR2453 – PAKISTAN",
+      "slug": "emporio-armani-renato-chronograph-black-ar2453-pakistan",
+      "brand_id": "emporio-armani",
+      "category": "Fashion Luxury",
+      "description": "Modern Italian luxury with all-black ion-plated steel case, sub-dial chronograph, signature Armani eagle emblem at 12 o'clock, and sleek mesh bracelet.",
+      "price": 75000,
+      "sale_price": 65000,
+      "sku": "EA-AR2453-BLK",
+      "stock": 5,
+      "images": [
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Quartz Chronograph",
+        "case_material": "Black Ion-Plated Steel",
+        "strap_material": "Stainless Steel Mesh",
+        "dial_color": "Matte Black",
+        "case_color": "Matte Black",
+        "water_resistance": "50M / 5 Bar",
+        "gender": "Men",
+        "watch_type": "Chronograph"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    },
+    {
+      "id": "prod-crysm-mesh",
+      "name": "Crysm Architectural Minimalist Quartz Mesh – PAKISTAN",
+      "slug": "crysm-architectural-minimalist-quartz-mesh-pakistan",
+      "brand_id": "crysm",
+      "category": "Minimalist Watch",
+      "description": "Futuristic architectural timepiece with faceted diamond-cut crystal glass, ultra-slim 7mm profile, gunmetal Milanese mesh strap, and minimalist two-hand dial.",
+      "price": 22000,
+      "sale_price": 18500,
+      "sku": "CRY-ARCH-MESH",
+      "stock": 11,
+      "images": [
+        "https://images.unsplash.com/photo-1619134778706-7015533a6150?auto=format&fit=crop&w=800&q=85"
+      ],
+      "featured": true,
+      "new_arrival": true,
+      "on_sale": true,
+      "specifications": {
+        "movement": "Slim Japanese Quartz",
+        "case_material": "Faceted Diamond Cut Steel",
+        "strap_material": "Milanese Mesh Gunmetal",
+        "dial_color": "Deep Space Charcoal",
+        "case_color": "Gunmetal",
+        "water_resistance": "30M Water Resistant",
+        "gender": "Unisex",
+        "watch_type": "Minimalist"
+      },
+      "created_at": "2026-09-04T16:00:00.000Z",
+      "updated_at": "2026-09-04T16:00:00.000Z"
+    }
+  ],
+  "orders": [],
+  "settings": {
+    "store_name": "INAYAT WATCH COMPANY",
+    "tagline": "Timeless Elegance & Horological Excellence",
+    "whatsapp_number": "+923314900788",
+    "phone_number": "+92 331 4900788",
+    "email": "info@inayatwatches.pk",
+    "address": "Inayat Watch Company, Lahore, Pakistan",
+    "currency": "Rs.",
+    "free_shipping_min": 5000,
+    "standard_shipping_fee": 250,
+    "admin_email": "admin@inayatwatches.pk",
+    "admin_password_hash": "inayat123"
+  }
+}
